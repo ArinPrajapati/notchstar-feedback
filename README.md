@@ -13,9 +13,14 @@ Website: https://www.notchstar.com
 | Requires | macOS 14 or later, Apple silicon and Intel |
 | Account | None |
 | Signed | Developer ID, notarized by Apple (version 1.0.3 and later) |
-| Source | Closed. This repository is for feedback and issues only |
+| Latest version | 1.0.5, see [Releases](https://github.com/ArinPrajapati/notchstar-feedback/releases) |
+| Source | Closed. This repository is for feedback, issues and release notes only |
 
 Prices as of 4 November 2026.
+
+## Download
+
+Get the latest signed and notarized disk image from [Releases](https://github.com/ArinPrajapati/notchstar-feedback/releases/latest) or from https://www.notchstar.com/download/. Each release lists the SHA-256 checksum. Verify it with `shasum -a 256 NotchStar-1.0.5.dmg`.
 
 ## The ten tools
 
