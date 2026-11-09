@@ -22,6 +22,14 @@ Prices as of 4 November 2026.
 
 Get the latest signed and notarized disk image from [Releases](https://github.com/ArinPrajapati/notchstar-feedback/releases/latest) or from https://www.notchstar.com/download/. Each release lists the SHA-256 checksum. Verify it with `shasum -a 256 NotchStar-1.0.5.dmg`.
 
+With Homebrew:
+
+```sh
+brew install --cask arinprajapati/notchstar/notchstar
+```
+
+The cask lives in https://github.com/ArinPrajapati/homebrew-notchstar.
+
 ## The ten tools
 
 1. Home, with Now Playing
